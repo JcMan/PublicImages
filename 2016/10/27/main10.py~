@@ -103,7 +103,7 @@ def saveImg():
 
 
 
-if __name__ == '__main__': 
+if __name__ == '__main__':
     # showSrcs()
     # deleteSrcs()
     saveImg()
